@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+}
+
+h1 {
+  color: #4caf50;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
